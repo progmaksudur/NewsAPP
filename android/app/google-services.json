@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "861016329535",
+    "project_id": "authentication-6c5b3",
+    "storage_bucket": "authentication-6c5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861016329535:android:e68f23770ff2c5ab60578a",
+        "android_client_info": {
+          "package_name": "com.example.assignment_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861016329535-f2v95okkq9bpi9u09hsen07vrcokkmoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKYzslw7teluD0Sla70mIkU9ufYkH7aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861016329535-f2v95okkq9bpi9u09hsen07vrcokkmoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861016329535-8omqeohrotrt3peivghsk5qpanekktab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushNotificationPrectice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861016329535:android:9c78a5791cd4529660578a",
+        "android_client_info": {
+          "package_name": "com.example.news_app_with_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861016329535-f2v95okkq9bpi9u09hsen07vrcokkmoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKYzslw7teluD0Sla70mIkU9ufYkH7aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861016329535-f2v95okkq9bpi9u09hsen07vrcokkmoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861016329535-8omqeohrotrt3peivghsk5qpanekktab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushNotificationPrectice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861016329535:android:af94980956b448f660578a",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_prectice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861016329535-f2v95okkq9bpi9u09hsen07vrcokkmoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKYzslw7teluD0Sla70mIkU9ufYkH7aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861016329535-f2v95okkq9bpi9u09hsen07vrcokkmoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861016329535-8omqeohrotrt3peivghsk5qpanekktab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushNotificationPrectice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
